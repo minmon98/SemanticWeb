@@ -1,0 +1,709 @@
+Long Xuyên,Thành phố Long Xuyên Tỉnh An Giang
+Châu Đốc,Thành phố Châu Đốc Tỉnh An Giang
+An Phú,Huyện An Phú Tỉnh An Giang
+Tân Châu,Thị xã Tân Châu Tỉnh An Giang
+Phú Tân,Huyện Phú Tân Tỉnh An Giang
+Châu Phú,Huyện Châu Phú Tỉnh An Giang
+Tịnh Biên,Huyện Tịnh Biên Tỉnh An Giang
+Tri Tôn,Huyện Tri Tôn Tỉnh An Giang
+Châu Thành,Huyện Châu Thành Tỉnh An Giang
+Chợ Mới,Huyện Chợ Mới Tỉnh An Giang
+Thoại Sơn,Huyện Thoại Sơn Tỉnh An Giang
+Kon Tum,Thành phố Kon Tum Tỉnh Kon Tum
+Đắk Glei,Huyện Đắk Glei Tỉnh Kon Tum
+Ngọc Hồi,Huyện Ngọc Hồi Tỉnh Kon Tum
+Đắk Tô,Huyện Đắk Tô Tỉnh Kon Tum
+Kon Plông,Huyện Kon Plông Tỉnh Kon Tum
+Kon Rẫy,Huyện Kon Rẫy Tỉnh Kon Tum
+Đắk Hà,Huyện Đắk Hà Tỉnh Kon Tum
+Sa Thầy,Huyện Sa Thầy Tỉnh Kon Tum
+Tu Mơ Rông,Huyện Tu Mơ Rông Tỉnh Kon Tum
+Ia H' Drai,Huyện Ia H' Drai Tỉnh Kon Tum
+Gia Nghĩa,Thị xã Gia Nghĩa Tỉnh Đắk Nông
+Đăk Glong,Huyện Đăk Glong Tỉnh Đắk Nông
+Cư Jút,Huyện Cư Jút Tỉnh Đắk Nông
+Đắk Mil,Huyện Đắk Mil Tỉnh Đắk Nông
+Krông Nô,Huyện Krông Nô Tỉnh Đắk Nông
+Đắk Song,Huyện Đắk Song Tỉnh Đắk Nông
+Đắk R'Lấp,Huyện Đắk R'Lấp Tỉnh Đắk Nông
+Tuy Đức,Huyện Tuy Đức Tỉnh Đắk Nông
+Sóc Trăng,Thành phố Sóc Trăng Tỉnh Sóc Trăng
+Châu Thành,Huyện Châu Thành Tỉnh Sóc Trăng
+Kế Sách,Huyện Kế Sách Tỉnh Sóc Trăng
+Mỹ Tú,Huyện Mỹ Tú Tỉnh Sóc Trăng
+Cù Lao Dung,Huyện Cù Lao Dung Tỉnh Sóc Trăng
+Long Phú,Huyện Long Phú Tỉnh Sóc Trăng
+Mỹ Xuyên,Huyện Mỹ Xuyên Tỉnh Sóc Trăng
+Ngã Năm,Thị xã Ngã Năm Tỉnh Sóc Trăng
+Thạnh Trị,Huyện Thạnh Trị Tỉnh Sóc Trăng
+Vĩnh Châu,Thị xã Vĩnh Châu Tỉnh Sóc Trăng
+Trần Đề,Huyện Trần Đề Tỉnh Sóc Trăng
+Phước Long,Thị xã Phước Long Tỉnh Bình Phước
+Đồng Xoài,Thị xã Đồng Xoài Tỉnh Bình Phước
+Bình Long,Thị xã Bình Long Tỉnh Bình Phước
+Bù Gia Mập,Huyện Bù Gia Mập Tỉnh Bình Phước
+Lộc Ninh,Huyện Lộc Ninh Tỉnh Bình Phước
+Bù Đốp,Huyện Bù Đốp Tỉnh Bình Phước
+Hớn Quản,Huyện Hớn Quản Tỉnh Bình Phước
+Đồng Phú,Huyện Đồng Phú Tỉnh Bình Phước
+Bù Đăng,Huyện Bù Đăng Tỉnh Bình Phước
+Chơn Thành,Huyện Chơn Thành Tỉnh Bình Phước
+Phú Riềng,Huyện Phú Riềng Tỉnh Bình Phước
+Hưng Yên,Thành phố Hưng Yên Tỉnh Hưng Yên
+Văn Lâm,Huyện Văn Lâm Tỉnh Hưng Yên
+Văn Giang,Huyện Văn Giang Tỉnh Hưng Yên
+Yên Mỹ,Huyện Yên Mỹ Tỉnh Hưng Yên
+Mỹ Hào,Huyện Mỹ Hào Tỉnh Hưng Yên
+Ân Thi,Huyện Ân Thi Tỉnh Hưng Yên
+Khoái Châu,Huyện Khoái Châu Tỉnh Hưng Yên
+Kim Động,Huyện Kim Động Tỉnh Hưng Yên
+Tiên Lữ,Huyện Tiên Lữ Tỉnh Hưng Yên
+Phù Cừ,Huyện Phù Cừ Tỉnh Hưng Yên
+Thanh Hóa,Thành phố Thanh Hóa Tỉnh Thanh Hóa
+Bỉm Sơn,Thị xã Bỉm Sơn Tỉnh Thanh Hóa
+Sầm Sơn,Thành phố Sầm Sơn Tỉnh Thanh Hóa
+Mường Lát,Huyện Mường Lát Tỉnh Thanh Hóa
+Quan Hóa,Huyện Quan Hóa Tỉnh Thanh Hóa
+Bá Thước,Huyện Bá Thước Tỉnh Thanh Hóa
+Quan Sơn,Huyện Quan Sơn Tỉnh Thanh Hóa
+Lang Chánh,Huyện Lang Chánh Tỉnh Thanh Hóa
+Ngọc Lặc,Huyện Ngọc Lặc Tỉnh Thanh Hóa
+Cẩm Thủy,Huyện Cẩm Thủy Tỉnh Thanh Hóa
+Thạch Thành,Huyện Thạch Thành Tỉnh Thanh Hóa
+Hà Trung,Huyện Hà Trung Tỉnh Thanh Hóa
+Vĩnh Lộc,Huyện Vĩnh Lộc Tỉnh Thanh Hóa
+Yên Định,Huyện Yên Định Tỉnh Thanh Hóa
+Thọ Xuân,Huyện Thọ Xuân Tỉnh Thanh Hóa
+Thường Xuân,Huyện Thường Xuân Tỉnh Thanh Hóa
+Triệu Sơn,Huyện Triệu Sơn Tỉnh Thanh Hóa
+Thiệu Hóa,Huyện Thiệu Hóa Tỉnh Thanh Hóa
+Hoằng Hóa,Huyện Hoằng Hóa Tỉnh Thanh Hóa
+Hậu Lộc,Huyện Hậu Lộc Tỉnh Thanh Hóa
+Nga Sơn,Huyện Nga Sơn Tỉnh Thanh Hóa
+Như Xuân,Huyện Như Xuân Tỉnh Thanh Hóa
+Như Thanh,Huyện Như Thanh Tỉnh Thanh Hóa
+Nông Cống,Huyện Nông Cống Tỉnh Thanh Hóa
+Đông Sơn,Huyện Đông Sơn Tỉnh Thanh Hóa
+Quảng Xương,Huyện Quảng Xương Tỉnh Thanh Hóa
+Tĩnh Gia,Huyện Tĩnh Gia Tỉnh Thanh Hóa
+Đông Hà,Thành phố Đông Hà Tỉnh Quảng Trị
+Quảng Trị,Thị xã Quảng Trị Tỉnh Quảng Trị
+Vĩnh Linh,Huyện Vĩnh Linh Tỉnh Quảng Trị
+Hướng Hóa,Huyện Hướng Hóa Tỉnh Quảng Trị
+Gio Linh,Huyện Gio Linh Tỉnh Quảng Trị
+Đa Krông,Huyện Đa Krông Tỉnh Quảng Trị
+Cam Lộ,Huyện Cam Lộ Tỉnh Quảng Trị
+Triệu Phong,Huyện Triệu Phong Tỉnh Quảng Trị
+Hải Lăng,Huyện Hải Lăng Tỉnh Quảng Trị
+Tuyên Quang,Thành phố Tuyên Quang Tỉnh Tuyên Quang
+Lâm Bình,Huyện Lâm Bình Tỉnh Tuyên Quang
+Nà Hang,Huyện Nà Hang Tỉnh Tuyên Quang
+Chiêm Hóa,Huyện Chiêm Hóa Tỉnh Tuyên Quang
+Hàm Yên,Huyện Hàm Yên Tỉnh Tuyên Quang
+Yên Sơn,Huyện Yên Sơn Tỉnh Tuyên Quang
+Sơn Dương,Huyện Sơn Dương Tỉnh Tuyên Quang
+Quảng Ngãi,Thành phố Quảng Ngãi Tỉnh Quảng Ngãi
+Bình Sơn,Huyện Bình Sơn Tỉnh Quảng Ngãi
+Trà Bồng,Huyện Trà Bồng Tỉnh Quảng Ngãi
+Tây Trà,Huyện Tây Trà Tỉnh Quảng Ngãi
+Sơn Tịnh,Huyện Sơn Tịnh Tỉnh Quảng Ngãi
+Tư Nghĩa,Huyện Tư Nghĩa Tỉnh Quảng Ngãi
+Sơn Hà,Huyện Sơn Hà Tỉnh Quảng Ngãi
+Sơn Tây,Huyện Sơn Tây Tỉnh Quảng Ngãi
+Minh Long,Huyện Minh Long Tỉnh Quảng Ngãi
+Nghĩa Hành,Huyện Nghĩa Hành Tỉnh Quảng Ngãi
+Mộ Đức,Huyện Mộ Đức Tỉnh Quảng Ngãi
+Đức Phổ,Huyện Đức Phổ Tỉnh Quảng Ngãi
+Ba Tơ,Huyện Ba Tơ Tỉnh Quảng Ngãi
+Lý Sơn,Huyện Lý Sơn Tỉnh Quảng Ngãi
+Ba Đình,Quận Ba Đình Thành phố Hà Nội
+Hoàn Kiếm,Quận Hoàn Kiếm Thành phố Hà Nội
+Tây Hồ,Quận Tây Hồ Thành phố Hà Nội
+Long Biên,Quận Long Biên Thành phố Hà Nội
+Cầu Giấy,Quận Cầu Giấy Thành phố Hà Nội
+Đống Đa,Quận Đống Đa Thành phố Hà Nội
+Hai Bà Trưng,Quận Hai Bà Trưng Thành phố Hà Nội
+Hoàng Mai,Quận Hoàng Mai Thành phố Hà Nội
+Thanh Xuân,Quận Thanh Xuân Thành phố Hà Nội
+Sóc Sơn,Huyện Sóc Sơn Thành phố Hà Nội
+Đông Anh,Huyện Đông Anh Thành phố Hà Nội
+Gia Lâm,Huyện Gia Lâm Thành phố Hà Nội
+Nam Từ Liêm,Quận Nam Từ Liêm Thành phố Hà Nội
+Thanh Trì,Huyện Thanh Trì Thành phố Hà Nội
+Bắc Từ Liêm,Quận Bắc Từ Liêm Thành phố Hà Nội
+Mê Linh,Huyện Mê Linh Thành phố Hà Nội
+Hà Đông,Quận Hà Đông Thành phố Hà Nội
+Sơn Tây,Thị xã Sơn Tây Thành phố Hà Nội
+Ba Vì,Huyện Ba Vì Thành phố Hà Nội
+Phúc Thọ,Huyện Phúc Thọ Thành phố Hà Nội
+Đan Phượng,Huyện Đan Phượng Thành phố Hà Nội
+Hoài Đức,Huyện Hoài Đức Thành phố Hà Nội
+Quốc Oai,Huyện Quốc Oai Thành phố Hà Nội
+Thạch Thất,Huyện Thạch Thất Thành phố Hà Nội
+Chương Mỹ,Huyện Chương Mỹ Thành phố Hà Nội
+Thanh Oai,Huyện Thanh Oai Thành phố Hà Nội
+Thường Tín,Huyện Thường Tín Thành phố Hà Nội
+Phú Xuyên,Huyện Phú Xuyên Thành phố Hà Nội
+Ứng Hòa,Huyện Ứng Hòa Thành phố Hà Nội
+Mỹ Đức,Huyện Mỹ Đức Thành phố Hà Nội
+Lào Cai,Thành phố Lào Cai Tỉnh Lào Cai
+Bát Xát,Huyện Bát Xát Tỉnh Lào Cai
+Mường Khương,Huyện Mường Khương Tỉnh Lào Cai
+Si Ma Cai,Huyện Si Ma Cai Tỉnh Lào Cai
+Bắc Hà,Huyện Bắc Hà Tỉnh Lào Cai
+Bảo Thắng,Huyện Bảo Thắng Tỉnh Lào Cai
+Bảo Yên,Huyện Bảo Yên Tỉnh Lào Cai
+Sa Pa,Huyện Sa Pa Tỉnh Lào Cai
+Văn Bàn,Huyện Văn Bàn Tỉnh Lào Cai
+Vĩnh Long,Thành phố Vĩnh Long Tỉnh Vĩnh Long
+Long Hồ,Huyện Long Hồ Tỉnh Vĩnh Long
+Mang Thít,Huyện Mang Thít Tỉnh Vĩnh Long
+Vũng Liêm,Huyện  Vũng Liêm Tỉnh Vĩnh Long
+Tam Bình,Huyện Tam Bình Tỉnh Vĩnh Long
+Bình Minh,Thị xã Bình Minh Tỉnh Vĩnh Long
+Trà Ôn,Huyện Trà Ôn Tỉnh Vĩnh Long
+Bình Tân,Huyện Bình Tân Tỉnh Vĩnh Long
+Đà Lạt,Thành phố Đà Lạt Tỉnh Lâm Đồng
+Bảo Lộc,Thành phố Bảo Lộc Tỉnh Lâm Đồng
+Đam Rông,Huyện Đam Rông Tỉnh Lâm Đồng
+Lạc Dương,Huyện Lạc Dương Tỉnh Lâm Đồng
+Lâm Hà,Huyện Lâm Hà Tỉnh Lâm Đồng
+Đơn Dương,Huyện Đơn Dương Tỉnh Lâm Đồng
+Đức Trọng,Huyện Đức Trọng Tỉnh Lâm Đồng
+Di Linh,Huyện Di Linh Tỉnh Lâm Đồng
+Bảo Lâm,Huyện Bảo Lâm Tỉnh Lâm Đồng
+Đạ Huoai,Huyện Đạ Huoai Tỉnh Lâm Đồng
+Đạ Tẻh,Huyện Đạ Tẻh Tỉnh Lâm Đồng
+Cát Tiên,Huyện Cát Tiên Tỉnh Lâm Đồng
+Qui Nhơn,Thành phố Qui Nhơn Tỉnh Bình Định
+An Lão,Huyện An Lão Tỉnh Bình Định
+Hoài Nhơn,Huyện Hoài Nhơn Tỉnh Bình Định
+Hoài Ân,Huyện Hoài Ân Tỉnh Bình Định
+Phù Mỹ,Huyện Phù Mỹ Tỉnh Bình Định
+Vĩnh Thạnh,Huyện Vĩnh Thạnh Tỉnh Bình Định
+Tây Sơn,Huyện Tây Sơn Tỉnh Bình Định
+Phù Cát,Huyện Phù Cát Tỉnh Bình Định
+An Nhơn,Thị xã An Nhơn Tỉnh Bình Định
+Tuy Phước,Huyện Tuy Phước Tỉnh Bình Định
+Vân Canh,Huyện Vân Canh Tỉnh Bình Định
+Vinh,Thành phố Vinh Tỉnh Nghệ An
+Cửa Lò,Thị xã Cửa Lò Tỉnh Nghệ An
+Thái Hoà,Thị xã Thái Hoà Tỉnh Nghệ An
+Quế Phong,Huyện Quế Phong Tỉnh Nghệ An
+Quỳ Châu,Huyện Quỳ Châu Tỉnh Nghệ An
+Kỳ Sơn,Huyện Kỳ Sơn Tỉnh Nghệ An
+Tương Dương,Huyện Tương Dương Tỉnh Nghệ An
+Nghĩa Đàn,Huyện Nghĩa Đàn Tỉnh Nghệ An
+Quỳ Hợp,Huyện Quỳ Hợp Tỉnh Nghệ An
+Quỳnh Lưu,Huyện Quỳnh Lưu Tỉnh Nghệ An
+Con Cuông,Huyện Con Cuông Tỉnh Nghệ An
+Tân Kỳ,Huyện Tân Kỳ Tỉnh Nghệ An
+Anh Sơn,Huyện Anh Sơn Tỉnh Nghệ An
+Diễn Châu,Huyện Diễn Châu Tỉnh Nghệ An
+Yên Thành,Huyện Yên Thành Tỉnh Nghệ An
+Đô Lương,Huyện Đô Lương Tỉnh Nghệ An
+Thanh Chương,Huyện Thanh Chương Tỉnh Nghệ An
+Nghi Lộc,Huyện Nghi Lộc Tỉnh Nghệ An
+Nam Đàn,Huyện Nam Đàn Tỉnh Nghệ An
+Hưng Nguyên,Huyện Hưng Nguyên Tỉnh Nghệ An
+Hoàng Mai,Thị xã Hoàng Mai Tỉnh Nghệ An
+Rạch Giá,Thành phố Rạch Giá Tỉnh Kiên Giang
+Hà Tiên,Thị xã Hà Tiên Tỉnh Kiên Giang
+Kiên Lương,Huyện Kiên Lương Tỉnh Kiên Giang
+Hòn Đất,Huyện Hòn Đất Tỉnh Kiên Giang
+Tân Hiệp,Huyện Tân Hiệp Tỉnh Kiên Giang
+Châu Thành,Huyện Châu Thành Tỉnh Kiên Giang
+Giồng Riềng,Huyện Giồng Riềng Tỉnh Kiên Giang
+Gò Quao,Huyện Gò Quao Tỉnh Kiên Giang
+An Biên,Huyện An Biên Tỉnh Kiên Giang
+An Minh,Huyện An Minh Tỉnh Kiên Giang
+Vĩnh Thuận,Huyện Vĩnh Thuận Tỉnh Kiên Giang
+Phú Quốc,Huyện Phú Quốc Tỉnh Kiên Giang
+Kiên Hải,Huyện Kiên Hải Tỉnh Kiên Giang
+U Minh Thượng,Huyện U Minh Thượng Tỉnh Kiên Giang
+Giang Thành,Huyện Giang Thành Tỉnh Kiên Giang
+Hà Giang,Thành phố Hà Giang Tỉnh Hà Giang
+Đồng Văn,Huyện Đồng Văn Tỉnh Hà Giang
+Mèo Vạc,Huyện Mèo Vạc Tỉnh Hà Giang
+Yên Minh,Huyện Yên Minh Tỉnh Hà Giang
+Quản Bạ,Huyện Quản Bạ Tỉnh Hà Giang
+Vị Xuyên,Huyện Vị Xuyên Tỉnh Hà Giang
+Bắc Mê,Huyện Bắc Mê Tỉnh Hà Giang
+Hoàng Su Phì,Huyện Hoàng Su Phì Tỉnh Hà Giang
+Xín Mần,Huyện Xín Mần Tỉnh Hà Giang
+Bắc Quang,Huyện Bắc Quang Tỉnh Hà Giang
+Quang Bình,Huyện Quang Bình Tỉnh Hà Giang
+Tuy Hoà,Thành phố Tuy Hoà Tỉnh Phú Yên
+Sông Cầu,Thị xã Sông Cầu Tỉnh Phú Yên
+Đồng Xuân,Huyện Đồng Xuân Tỉnh Phú Yên
+Tuy An,Huyện Tuy An Tỉnh Phú Yên
+Sơn Hòa,Huyện Sơn Hòa Tỉnh Phú Yên
+Sông Hinh,Huyện Sông Hinh Tỉnh Phú Yên
+Tây Hoà,Huyện Tây Hoà Tỉnh Phú Yên
+Phú Hoà,Huyện Phú Hoà Tỉnh Phú Yên
+Đông Hòa,Huyện Đông Hòa Tỉnh Phú Yên
+Lạng Sơn,Thành phố Lạng Sơn Tỉnh Lạng Sơn
+Tràng Định,Huyện Tràng Định Tỉnh Lạng Sơn
+Bình Gia,Huyện Bình Gia Tỉnh Lạng Sơn
+Văn Lãng,Huyện Văn Lãng Tỉnh Lạng Sơn
+Cao Lộc,Huyện Cao Lộc Tỉnh Lạng Sơn
+Văn Quan,Huyện Văn Quan Tỉnh Lạng Sơn
+Bắc Sơn,Huyện Bắc Sơn Tỉnh Lạng Sơn
+Hữu Lũng,Huyện Hữu Lũng Tỉnh Lạng Sơn
+Chi Lăng,Huyện Chi Lăng Tỉnh Lạng Sơn
+Lộc Bình,Huyện Lộc Bình Tỉnh Lạng Sơn
+Đình Lập,Huyện Đình Lập Tỉnh Lạng Sơn
+Liên Chiểu,Quận Liên Chiểu Thành phố Đà Nẵng
+Thanh Khê,Quận Thanh Khê Thành phố Đà Nẵng
+Hải Châu,Quận Hải Châu Thành phố Đà Nẵng
+Sơn Trà,Quận Sơn Trà Thành phố Đà Nẵng
+Ngũ Hành Sơn,Quận Ngũ Hành Sơn Thành phố Đà Nẵng
+Cẩm Lệ,Quận Cẩm Lệ Thành phố Đà Nẵng
+Hòa Vang,Huyện Hòa Vang Thành phố Đà Nẵng
+Sơn La,Thành phố Sơn La Tỉnh Sơn La
+Quỳnh Nhai,Huyện Quỳnh Nhai Tỉnh Sơn La
+Thuận Châu,Huyện Thuận Châu Tỉnh Sơn La
+Mường La,Huyện Mường La Tỉnh Sơn La
+Bắc Yên,Huyện Bắc Yên Tỉnh Sơn La
+Phù Yên,Huyện Phù Yên Tỉnh Sơn La
+Mộc Châu,Huyện Mộc Châu Tỉnh Sơn La
+Yên Châu,Huyện Yên Châu Tỉnh Sơn La
+Mai Sơn,Huyện Mai Sơn Tỉnh Sơn La
+Sông Mã,Huyện Sông Mã Tỉnh Sơn La
+Sốp Cộp,Huyện Sốp Cộp Tỉnh Sơn La
+Vân Hồ,Huyện Vân Hồ Tỉnh Sơn La
+Tây Ninh,Thành phố Tây Ninh Tỉnh Tây Ninh
+Tân Biên,Huyện Tân Biên Tỉnh Tây Ninh
+Tân Châu,Huyện Tân Châu Tỉnh Tây Ninh
+Dương Minh Châu,Huyện Dương Minh Châu Tỉnh Tây Ninh
+Châu Thành,Huyện Châu Thành Tỉnh Tây Ninh
+Hòa Thành,Huyện Hòa Thành Tỉnh Tây Ninh
+Gò Dầu,Huyện Gò Dầu Tỉnh Tây Ninh
+Bến Cầu,Huyện Bến Cầu Tỉnh Tây Ninh
+Trảng Bàng,Huyện Trảng Bàng Tỉnh Tây Ninh
+Nam Định,Thành phố Nam Định Tỉnh Nam Định
+Mỹ Lộc,Huyện Mỹ Lộc Tỉnh Nam Định
+Vụ Bản,Huyện Vụ Bản Tỉnh Nam Định
+Ý Yên,Huyện Ý Yên Tỉnh Nam Định
+Nghĩa Hưng,Huyện Nghĩa Hưng Tỉnh Nam Định
+Nam Trực,Huyện Nam Trực Tỉnh Nam Định
+Trực Ninh,Huyện Trực Ninh Tỉnh Nam Định
+Xuân Trường,Huyện Xuân Trường Tỉnh Nam Định
+Giao Thủy,Huyện Giao Thủy Tỉnh Nam Định
+Hải Hậu,Huyện Hải Hậu Tỉnh Nam Định
+Lai Châu,Thành phố Lai Châu Tỉnh Lai Châu
+Tam Đường,Huyện Tam Đường Tỉnh Lai Châu
+Mường Tè,Huyện Mường Tè Tỉnh Lai Châu
+Sìn Hồ,Huyện Sìn Hồ Tỉnh Lai Châu
+Phong Thổ,Huyện Phong Thổ Tỉnh Lai Châu
+Than Uyên,Huyện Than Uyên Tỉnh Lai Châu
+Tân Uyên,Huyện Tân Uyên Tỉnh Lai Châu
+Nậm Nhùn,Huyện Nậm Nhùn Tỉnh Lai Châu
+Bến Tre,Thành phố Bến Tre Tỉnh Bến Tre
+Châu Thành,Huyện Châu Thành Tỉnh Bến Tre
+Chợ Lách,Huyện Chợ Lách Tỉnh Bến Tre
+Mỏ Cày Nam,Huyện Mỏ Cày Nam Tỉnh Bến Tre
+Giồng Trôm,Huyện Giồng Trôm Tỉnh Bến Tre
+Bình Đại,Huyện Bình Đại Tỉnh Bến Tre
+Ba Tri,Huyện Ba Tri Tỉnh Bến Tre
+Thạnh Phú,Huyện Thạnh Phú Tỉnh Bến Tre
+Mỏ Cày Bắc,Huyện Mỏ Cày Bắc Tỉnh Bến Tre
+Nha Trang,Thành phố Nha Trang Tỉnh Khánh Hòa
+Cam Ranh,Thành phố Cam Ranh Tỉnh Khánh Hòa
+Cam Lâm,Huyện Cam Lâm Tỉnh Khánh Hòa
+Vạn Ninh,Huyện Vạn Ninh Tỉnh Khánh Hòa
+Ninh Hòa,Thị xã Ninh Hòa Tỉnh Khánh Hòa
+Khánh Vĩnh,Huyện Khánh Vĩnh Tỉnh Khánh Hòa
+Diên Khánh,Huyện Diên Khánh Tỉnh Khánh Hòa
+Khánh Sơn,Huyện Khánh Sơn Tỉnh Khánh Hòa
+Trường Sa,Huyện Trường Sa Tỉnh Khánh Hòa
+Phan Thiết,Thành phố Phan Thiết Tỉnh Bình Thuận
+La Gi,Thị xã La Gi Tỉnh Bình Thuận
+Tuy Phong,Huyện Tuy Phong Tỉnh Bình Thuận
+Bắc Bình,Huyện Bắc Bình Tỉnh Bình Thuận
+Hàm Thuận Bắc,Huyện Hàm Thuận Bắc Tỉnh Bình Thuận
+Hàm Thuận Nam,Huyện Hàm Thuận Nam Tỉnh Bình Thuận
+Tánh Linh,Huyện Tánh Linh Tỉnh Bình Thuận
+Đức Linh,Huyện Đức Linh Tỉnh Bình Thuận
+Hàm Tân,Huyện Hàm Tân Tỉnh Bình Thuận
+Phú Quí,Huyện Phú Quí Tỉnh Bình Thuận
+Cao Bằng,Thành phố Cao Bằng Tỉnh Cao Bằng
+Bảo Lâm,Huyện Bảo Lâm Tỉnh Cao Bằng
+Bảo Lạc,Huyện Bảo Lạc Tỉnh Cao Bằng
+Thông Nông,Huyện Thông Nông Tỉnh Cao Bằng
+Hà Quảng,Huyện Hà Quảng Tỉnh Cao Bằng
+Trà Lĩnh,Huyện Trà Lĩnh Tỉnh Cao Bằng
+Trùng Khánh,Huyện Trùng Khánh Tỉnh Cao Bằng
+Hạ Lang,Huyện Hạ Lang Tỉnh Cao Bằng
+Quảng Uyên,Huyện Quảng Uyên Tỉnh Cao Bằng
+Phục Hoà,Huyện Phục Hoà Tỉnh Cao Bằng
+Hoà An,Huyện Hoà An Tỉnh Cao Bằng
+Nguyên Bình,Huyện Nguyên Bình Tỉnh Cao Bằng
+Thạch An,Huyện Thạch An Tỉnh Cao Bằng
+Hồng Bàng,Quận Hồng Bàng Thành phố Hải Phòng
+Ngô Quyền,Quận Ngô Quyền Thành phố Hải Phòng
+Lê Chân,Quận Lê Chân Thành phố Hải Phòng
+Hải An,Quận Hải An Thành phố Hải Phòng
+Kiến An,Quận Kiến An Thành phố Hải Phòng
+Đồ Sơn,Quận Đồ Sơn Thành phố Hải Phòng
+Dương Kinh,Quận Dương Kinh Thành phố Hải Phòng
+Thuỷ Nguyên,Huyện Thuỷ Nguyên Thành phố Hải Phòng
+An Dương,Huyện An Dương Thành phố Hải Phòng
+An Lão,Huyện An Lão Thành phố Hải Phòng
+Kiến Thuỵ,Huyện Kiến Thuỵ Thành phố Hải Phòng
+Tiên Lãng,Huyện Tiên Lãng Thành phố Hải Phòng
+Vĩnh Bảo,Huyện Vĩnh Bảo Thành phố Hải Phòng
+Cát Hải,Huyện Cát Hải Thành phố Hải Phòng
+Ninh Bình,Thành phố Ninh Bình Tỉnh Ninh Bình
+Tam Điệp,Thành phố Tam Điệp Tỉnh Ninh Bình
+Nho Quan,Huyện Nho Quan Tỉnh Ninh Bình
+Gia Viễn,Huyện Gia Viễn Tỉnh Ninh Bình
+Hoa Lư,Huyện Hoa Lư Tỉnh Ninh Bình
+Yên Khánh,Huyện Yên Khánh Tỉnh Ninh Bình
+Kim Sơn,Huyện Kim Sơn Tỉnh Ninh Bình
+Yên Mô,Huyện Yên Mô Tỉnh Ninh Bình
+Yên Bái,Thành phố Yên Bái Tỉnh Yên Bái
+Nghĩa Lộ,Thị xã Nghĩa Lộ Tỉnh Yên Bái
+Lục Yên,Huyện Lục Yên Tỉnh Yên Bái
+Văn Yên,Huyện Văn Yên Tỉnh Yên Bái
+Mù Căng Chải,Huyện Mù Căng Chải Tỉnh Yên Bái
+Trấn Yên,Huyện Trấn Yên Tỉnh Yên Bái
+Trạm Tấu,Huyện Trạm Tấu Tỉnh Yên Bái
+Văn Chấn,Huyện Văn Chấn Tỉnh Yên Bái
+Yên Bình,Huyện Yên Bình Tỉnh Yên Bái
+Pleiku,Thành phố Pleiku Tỉnh Gia Lai
+An Khê,Thị xã An Khê Tỉnh Gia Lai
+Ayun Pa,Thị xã Ayun Pa Tỉnh Gia Lai
+KBang,Huyện KBang Tỉnh Gia Lai
+Đăk Đoa,Huyện Đăk Đoa Tỉnh Gia Lai
+Chư Păh,Huyện Chư Păh Tỉnh Gia Lai
+Ia Grai,Huyện Ia Grai Tỉnh Gia Lai
+Mang Yang,Huyện Mang Yang Tỉnh Gia Lai
+Kông Chro,Huyện Kông Chro Tỉnh Gia Lai
+Đức Cơ,Huyện Đức Cơ Tỉnh Gia Lai
+Chư Prông,Huyện Chư Prông Tỉnh Gia Lai
+Chư Sê,Huyện Chư Sê Tỉnh Gia Lai
+Đăk Pơ,Huyện Đăk Pơ Tỉnh Gia Lai
+Ia Pa,Huyện Ia Pa Tỉnh Gia Lai
+Krông Pa,Huyện Krông Pa Tỉnh Gia Lai
+Phú Thiện,Huyện Phú Thiện Tỉnh Gia Lai
+Chư Pưh,Huyện Chư Pưh Tỉnh Gia Lai
+Hòa Bình,Thành phố Hòa Bình Tỉnh Hoà Bình
+Đà Bắc,Huyện Đà Bắc Tỉnh Hoà Bình
+Kỳ Sơn,Huyện Kỳ Sơn Tỉnh Hoà Bình
+Lương Sơn,Huyện Lương Sơn Tỉnh Hoà Bình
+Kim Bôi,Huyện Kim Bôi Tỉnh Hoà Bình
+Cao Phong,Huyện Cao Phong Tỉnh Hoà Bình
+Tân Lạc,Huyện Tân Lạc Tỉnh Hoà Bình
+Mai Châu,Huyện Mai Châu Tỉnh Hoà Bình
+Lạc Sơn,Huyện Lạc Sơn Tỉnh Hoà Bình
+Yên Thủy,Huyện Yên Thủy Tỉnh Hoà Bình
+Lạc Thủy,Huyện Lạc Thủy Tỉnh Hoà Bình
+Vũng Tàu,Thành phố Vũng Tàu Tỉnh Bà Rịa - Vũng Tàu
+Bà Rịa,Thành phố Bà Rịa Tỉnh Bà Rịa - Vũng Tàu
+Châu Đức,Huyện Châu Đức Tỉnh Bà Rịa - Vũng Tàu
+Xuyên Mộc,Huyện Xuyên Mộc Tỉnh Bà Rịa - Vũng Tàu
+Long Điền,Huyện Long Điền Tỉnh Bà Rịa - Vũng Tàu
+Đất Đỏ,Huyện Đất Đỏ Tỉnh Bà Rịa - Vũng Tàu
+Tân Thành,Huyện Tân Thành Tỉnh Bà Rịa - Vũng Tàu
+Cà Mau,Thành phố Cà Mau Tỉnh Cà Mau
+U Minh,Huyện U Minh Tỉnh Cà Mau
+Thới Bình,Huyện Thới Bình Tỉnh Cà Mau
+Trần Văn Thời,Huyện Trần Văn Thời Tỉnh Cà Mau
+Cái Nước,Huyện Cái Nước Tỉnh Cà Mau
+Đầm Dơi,Huyện Đầm Dơi Tỉnh Cà Mau
+Năm Căn,Huyện Năm Căn Tỉnh Cà Mau
+Phú Tân,Huyện Phú Tân Tỉnh Cà Mau
+Ngọc Hiển,Huyện Ngọc Hiển Tỉnh Cà Mau
+Thủ Dầu Một,Thành phố Thủ Dầu Một Tỉnh Bình Dương
+Bàu Bàng,Huyện Bàu Bàng Tỉnh Bình Dương
+Dầu Tiếng,Huyện Dầu Tiếng Tỉnh Bình Dương
+Bến Cát,Thị xã Bến Cát Tỉnh Bình Dương
+Phú Giáo,Huyện Phú Giáo Tỉnh Bình Dương
+Tân Uyên,Thị xã Tân Uyên Tỉnh Bình Dương
+Dĩ An,Thị xã Dĩ An Tỉnh Bình Dương
+Thuận An,Thị xã Thuận An Tỉnh Bình Dương
+Bắc Tân Uyên,Huyện Bắc Tân Uyên Tỉnh Bình Dương
+Ninh Kiều,Quận Ninh Kiều Thành phố Cần Thơ
+Ô Môn,Quận Ô Môn Thành phố Cần Thơ
+Bình Thuỷ,Quận Bình Thuỷ Thành phố Cần Thơ
+Cái Răng,Quận Cái Răng Thành phố Cần Thơ
+Thốt Nốt,Quận Thốt Nốt Thành phố Cần Thơ
+Vĩnh Thạnh,Huyện Vĩnh Thạnh Thành phố Cần Thơ
+Cờ Đỏ,Huyện Cờ Đỏ Thành phố Cần Thơ
+Phong Điền,Huyện Phong Điền Thành phố Cần Thơ
+Thới Lai,Huyện Thới Lai Thành phố Cần Thơ
+Huế,Thành phố Huế Tỉnh Thừa Thiên Huế
+Phong Điền,Huyện Phong Điền Tỉnh Thừa Thiên Huế
+Quảng Điền,Huyện Quảng Điền Tỉnh Thừa Thiên Huế
+Phú Vang,Huyện Phú Vang Tỉnh Thừa Thiên Huế
+Hương Thủy,Thị xã Hương Thủy Tỉnh Thừa Thiên Huế
+Hương Trà,Thị xã Hương Trà Tỉnh Thừa Thiên Huế
+A Lưới,Huyện A Lưới Tỉnh Thừa Thiên Huế
+Phú Lộc,Huyện Phú Lộc Tỉnh Thừa Thiên Huế
+Nam Đông,Huyện Nam Đông Tỉnh Thừa Thiên Huế
+Biên Hòa,Thành phố Biên Hòa Tỉnh Đồng Nai
+Long Khánh,Thị xã Long Khánh Tỉnh Đồng Nai
+Tân Phú,Huyện Tân Phú Tỉnh Đồng Nai
+Vĩnh Cửu,Huyện Vĩnh Cửu Tỉnh Đồng Nai
+Định Quán,Huyện Định Quán Tỉnh Đồng Nai
+Trảng Bom,Huyện Trảng Bom Tỉnh Đồng Nai
+Thống Nhất,Huyện Thống Nhất Tỉnh Đồng Nai
+Cẩm Mỹ,Huyện Cẩm Mỹ Tỉnh Đồng Nai
+Long Thành,Huyện Long Thành Tỉnh Đồng Nai
+Xuân Lộc,Huyện Xuân Lộc Tỉnh Đồng Nai
+Nhơn Trạch,Huyện Nhơn Trạch Tỉnh Đồng Nai
+Mỹ Tho,Thành phố Mỹ Tho Tỉnh Tiền Giang
+Gò Công,Thị xã Gò Công Tỉnh Tiền Giang
+Cai Lậy,Thị xã Cai Lậy Tỉnh Tiền Giang
+Tân Phước,Huyện Tân Phước Tỉnh Tiền Giang
+Cái Bè,Huyện Cái Bè Tỉnh Tiền Giang
+Cai Lậy,Huyện Cai Lậy Tỉnh Tiền Giang
+Châu Thành,Huyện Châu Thành Tỉnh Tiền Giang
+Chợ Gạo,Huyện Chợ Gạo Tỉnh Tiền Giang
+Gò Công Tây,Huyện Gò Công Tây Tỉnh Tiền Giang
+Gò Công Đông,Huyện Gò Công Đông Tỉnh Tiền Giang
+Tân Phú Đông,Huyện Tân Phú Đông Tỉnh Tiền Giang
+Điện Biên Phủ,Thành phố Điện Biên Phủ Tỉnh Điện Biên
+Mường Lay,Thị xã Mường Lay Tỉnh Điện Biên
+Mường Nhé,Huyện Mường Nhé Tỉnh Điện Biên
+Mường Chà,Huyện Mường Chà Tỉnh Điện Biên
+Tủa Chùa,Huyện Tủa Chùa Tỉnh Điện Biên
+Tuần Giáo,Huyện Tuần Giáo Tỉnh Điện Biên
+Điện Biên,Huyện Điện Biên Tỉnh Điện Biên
+Điện Biên Đông,Huyện Điện Biên Đông Tỉnh Điện Biên
+Mường Ảng,Huyện Mường Ảng Tỉnh Điện Biên
+Nậm Pồ,Huyện Nậm Pồ Tỉnh Điện Biên
+Vĩnh Yên,Thành phố Vĩnh Yên Tỉnh Vĩnh Phúc
+Phúc Yên,Thị xã Phúc Yên Tỉnh Vĩnh Phúc
+Lập Thạch,Huyện Lập Thạch Tỉnh Vĩnh Phúc
+Tam Dương,Huyện Tam Dương Tỉnh Vĩnh Phúc
+Tam Đảo,Huyện Tam Đảo Tỉnh Vĩnh Phúc
+Bình Xuyên,Huyện Bình Xuyên Tỉnh Vĩnh Phúc
+Yên Lạc,Huyện Yên Lạc Tỉnh Vĩnh Phúc
+Vĩnh Tường,Huyện Vĩnh Tường Tỉnh Vĩnh Phúc
+Sông Lô,Huyện Sông Lô Tỉnh Vĩnh Phúc
+Tam Kỳ,Thành phố Tam Kỳ Tỉnh Quảng Nam
+Hội An,Thành phố Hội An Tỉnh Quảng Nam
+Tây Giang,Huyện Tây Giang Tỉnh Quảng Nam
+Đông Giang,Huyện Đông Giang Tỉnh Quảng Nam
+Đại Lộc,Huyện Đại Lộc Tỉnh Quảng Nam
+Điện Bàn,Thị xã Điện Bàn Tỉnh Quảng Nam
+Duy Xuyên,Huyện Duy Xuyên Tỉnh Quảng Nam
+Quế Sơn,Huyện Quế Sơn Tỉnh Quảng Nam
+Nam Giang,Huyện Nam Giang Tỉnh Quảng Nam
+Phước Sơn,Huyện Phước Sơn Tỉnh Quảng Nam
+Hiệp Đức,Huyện Hiệp Đức Tỉnh Quảng Nam
+Thăng Bình,Huyện Thăng Bình Tỉnh Quảng Nam
+Tiên Phước,Huyện Tiên Phước Tỉnh Quảng Nam
+Bắc Trà My,Huyện Bắc Trà My Tỉnh Quảng Nam
+Nam Trà My,Huyện Nam Trà My Tỉnh Quảng Nam
+Núi Thành,Huyện Núi Thành Tỉnh Quảng Nam
+Phú Ninh,Huyện Phú Ninh Tỉnh Quảng Nam
+Nông Sơn,Huyện Nông Sơn Tỉnh Quảng Nam
+Buôn Ma Thuột,Thành phố Buôn Ma Thuột Tỉnh Đắk Lắk
+Buôn Hồ,Thị xã Buôn Hồ Tỉnh Đắk Lắk
+Ea H'leo,Huyện Ea H'leo Tỉnh Đắk Lắk
+Ea Súp,Huyện Ea Súp Tỉnh Đắk Lắk
+Buôn Đôn,Huyện Buôn Đôn Tỉnh Đắk Lắk
+Cư M'gar,Huyện Cư M'gar Tỉnh Đắk Lắk
+Krông Búk,Huyện Krông Búk Tỉnh Đắk Lắk
+Krông Năng,Huyện Krông Năng Tỉnh Đắk Lắk
+Ea Kar,Huyện Ea Kar Tỉnh Đắk Lắk
+M'Đrắk,Huyện M'Đrắk Tỉnh Đắk Lắk
+Krông Bông,Huyện Krông Bông Tỉnh Đắk Lắk
+Krông Pắc,Huyện Krông Pắc Tỉnh Đắk Lắk
+Krông A Na,Huyện Krông A Na Tỉnh Đắk Lắk
+Lắk,Huyện Lắk Tỉnh Đắk Lắk
+Cư Kuin,Huyện Cư Kuin Tỉnh Đắk Lắk
+Thái Nguyên,Thành phố Thái Nguyên Tỉnh Thái Nguyên
+Sông Công,Thành phố Sông Công Tỉnh Thái Nguyên
+Định Hóa,Huyện Định Hóa Tỉnh Thái Nguyên
+Phú Lương,Huyện Phú Lương Tỉnh Thái Nguyên
+Đồng Hỷ,Huyện Đồng Hỷ Tỉnh Thái Nguyên
+Võ Nhai,Huyện Võ Nhai Tỉnh Thái Nguyên
+Đại Từ,Huyện Đại Từ Tỉnh Thái Nguyên
+Phổ Yên,Thị xã Phổ Yên Tỉnh Thái Nguyên
+Phú Bình,Huyện Phú Bình Tỉnh Thái Nguyên
+Hải Dương,Thành phố Hải Dương Tỉnh Hải Dương
+Chí Linh,Thị xã Chí Linh Tỉnh Hải Dương
+Nam Sách,Huyện Nam Sách Tỉnh Hải Dương
+Kinh Môn,Huyện Kinh Môn Tỉnh Hải Dương
+Kim Thành,Huyện Kim Thành Tỉnh Hải Dương
+Thanh Hà,Huyện Thanh Hà Tỉnh Hải Dương
+Cẩm Giàng,Huyện Cẩm Giàng Tỉnh Hải Dương
+Bình Giang,Huyện Bình Giang Tỉnh Hải Dương
+Gia Lộc,Huyện Gia Lộc Tỉnh Hải Dương
+Tứ Kỳ,Huyện Tứ Kỳ Tỉnh Hải Dương
+Ninh Giang,Huyện Ninh Giang Tỉnh Hải Dương
+Thanh Miện,Huyện Thanh Miện Tỉnh Hải Dương
+Bạc Liêu,Thành phố Bạc Liêu Tỉnh Bạc Liêu
+Hồng Dân,Huyện Hồng Dân Tỉnh Bạc Liêu
+Phước Long,Huyện Phước Long Tỉnh Bạc Liêu
+Vĩnh Lợi,Huyện Vĩnh Lợi Tỉnh Bạc Liêu
+Giá Rai,Thị xã Giá Rai Tỉnh Bạc Liêu
+Đông Hải,Huyện Đông Hải Tỉnh Bạc Liêu
+Hoà Bình,Huyện Hoà Bình Tỉnh Bạc Liêu
+Trà Vinh,Thành phố Trà Vinh Tỉnh Trà Vinh
+Càng Long,Huyện Càng Long Tỉnh Trà Vinh
+Cầu Kè,Huyện Cầu Kè Tỉnh Trà Vinh
+Tiểu Cần,Huyện Tiểu Cần Tỉnh Trà Vinh
+Châu Thành,Huyện Châu Thành Tỉnh Trà Vinh
+Cầu Ngang,Huyện Cầu Ngang Tỉnh Trà Vinh
+Trà Cú,Huyện Trà Cú Tỉnh Trà Vinh
+Duyên Hải,Huyện Duyên Hải Tỉnh Trà Vinh
+Duyên Hải,Thị xã Duyên Hải Tỉnh Trà Vinh
+Thái Bình,Thành phố Thái Bình Tỉnh Thái Bình
+Quỳnh Phụ,Huyện Quỳnh Phụ Tỉnh Thái Bình
+Hưng Hà,Huyện Hưng Hà Tỉnh Thái Bình
+Đông Hưng,Huyện Đông Hưng Tỉnh Thái Bình
+Thái Thụy,Huyện Thái Thụy Tỉnh Thái Bình
+Tiền Hải,Huyện Tiền Hải Tỉnh Thái Bình
+Kiến Xương,Huyện Kiến Xương Tỉnh Thái Bình
+Vũ Thư,Huyện Vũ Thư Tỉnh Thái Bình
+Hà Tĩnh,Thành phố Hà Tĩnh Tỉnh Hà Tĩnh
+Hồng Lĩnh,Thị xã Hồng Lĩnh Tỉnh Hà Tĩnh
+Hương Sơn,Huyện Hương Sơn Tỉnh Hà Tĩnh
+Đức Thọ,Huyện Đức Thọ Tỉnh Hà Tĩnh
+Vũ Quang,Huyện Vũ Quang Tỉnh Hà Tĩnh
+Nghi Xuân,Huyện Nghi Xuân Tỉnh Hà Tĩnh
+Can Lộc,Huyện Can Lộc Tỉnh Hà Tĩnh
+Hương Khê,Huyện Hương Khê Tỉnh Hà Tĩnh
+Thạch Hà,Huyện Thạch Hà Tỉnh Hà Tĩnh
+Cẩm Xuyên,Huyện Cẩm Xuyên Tỉnh Hà Tĩnh
+Kỳ Anh,Huyện Kỳ Anh Tỉnh Hà Tĩnh
+Lộc Hà,Huyện Lộc Hà Tỉnh Hà Tĩnh
+Kỳ Anh,Thị xã Kỳ Anh Tỉnh Hà Tĩnh
+Phan Rang-Tháp Chàm,Thành phố Phan Rang-Tháp Chàm Tỉnh Ninh Thuận
+Bác Ái,Huyện Bác Ái Tỉnh Ninh Thuận
+Ninh Sơn,Huyện Ninh Sơn Tỉnh Ninh Thuận
+Ninh Hải,Huyện Ninh Hải Tỉnh Ninh Thuận
+Ninh Phước,Huyện Ninh Phước Tỉnh Ninh Thuận
+Thuận Bắc,Huyện Thuận Bắc Tỉnh Ninh Thuận
+Thuận Nam,Huyện Thuận Nam Tỉnh Ninh Thuận
+Cao Lãnh,Thành phố Cao Lãnh Tỉnh Đồng Tháp
+Sa Đéc,Thành phố Sa Đéc Tỉnh Đồng Tháp
+Hồng Ngự,Thị xã Hồng Ngự Tỉnh Đồng Tháp
+Tân Hồng,Huyện Tân Hồng Tỉnh Đồng Tháp
+Hồng Ngự,Huyện Hồng Ngự Tỉnh Đồng Tháp
+Tam Nông,Huyện Tam Nông Tỉnh Đồng Tháp
+Tháp Mười,Huyện Tháp Mười Tỉnh Đồng Tháp
+Cao Lãnh,Huyện Cao Lãnh Tỉnh Đồng Tháp
+Thanh Bình,Huyện Thanh Bình Tỉnh Đồng Tháp
+Lấp Vò,Huyện Lấp Vò Tỉnh Đồng Tháp
+Lai Vung,Huyện Lai Vung Tỉnh Đồng Tháp
+Châu Thành,Huyện Châu Thành Tỉnh Đồng Tháp
+Tân An,Thành phố Tân An Tỉnh Long An
+Kiến Tường,Thị xã Kiến Tường Tỉnh Long An
+Tân Hưng,Huyện Tân Hưng Tỉnh Long An
+Vĩnh Hưng,Huyện Vĩnh Hưng Tỉnh Long An
+Mộc Hóa,Huyện Mộc Hóa Tỉnh Long An
+Tân Thạnh,Huyện Tân Thạnh Tỉnh Long An
+Thạnh Hóa,Huyện Thạnh Hóa Tỉnh Long An
+Đức Huệ,Huyện Đức Huệ Tỉnh Long An
+Đức Hòa,Huyện Đức Hòa Tỉnh Long An
+Bến Lức,Huyện Bến Lức Tỉnh Long An
+Thủ Thừa,Huyện Thủ Thừa Tỉnh Long An
+Tân Trụ,Huyện Tân Trụ Tỉnh Long An
+Cần Đước,Huyện Cần Đước Tỉnh Long An
+Cần Giuộc,Huyện Cần Giuộc Tỉnh Long An
+Châu Thành,Huyện Châu Thành Tỉnh Long An
+Vị Thanh,Thành phố Vị Thanh Tỉnh Hậu Giang
+Ngã Bảy,Thị xã Ngã Bảy Tỉnh Hậu Giang
+Châu Thành A,Huyện Châu Thành A Tỉnh Hậu Giang
+Châu Thành,Huyện Châu Thành Tỉnh Hậu Giang
+Phụng Hiệp,Huyện Phụng Hiệp Tỉnh Hậu Giang
+Vị Thuỷ,Huyện Vị Thuỷ Tỉnh Hậu Giang
+Long Mỹ,Huyện Long Mỹ Tỉnh Hậu Giang
+Long Mỹ,Thị xã Long Mỹ Tỉnh Hậu Giang
+Hạ Long,Thành phố Hạ Long Tỉnh Quảng Ninh
+Móng Cái,Thành phố Móng Cái Tỉnh Quảng Ninh
+Cẩm Phả,Thành phố Cẩm Phả Tỉnh Quảng Ninh
+Uông Bí,Thành phố Uông Bí Tỉnh Quảng Ninh
+Bình Liêu,Huyện Bình Liêu Tỉnh Quảng Ninh
+Tiên Yên,Huyện Tiên Yên Tỉnh Quảng Ninh
+Đầm Hà,Huyện Đầm Hà Tỉnh Quảng Ninh
+Hải Hà,Huyện Hải Hà Tỉnh Quảng Ninh
+Ba Chẽ,Huyện Ba Chẽ Tỉnh Quảng Ninh
+Vân Đồn,Huyện Vân Đồn Tỉnh Quảng Ninh
+Hoành Bồ,Huyện Hoành Bồ Tỉnh Quảng Ninh
+Đông Triều,Thị xã Đông Triều Tỉnh Quảng Ninh
+Quảng Yên,Thị xã Quảng Yên Tỉnh Quảng Ninh
+Cô Tô,Huyện Cô Tô Tỉnh Quảng Ninh
+Việt Trì,Thành phố Việt Trì Tỉnh Phú Thọ
+Phú Thọ,Thị xã Phú Thọ Tỉnh Phú Thọ
+Đoan Hùng,Huyện Đoan Hùng Tỉnh Phú Thọ
+Hạ Hoà,Huyện Hạ Hoà Tỉnh Phú Thọ
+Thanh Ba,Huyện Thanh Ba Tỉnh Phú Thọ
+Phù Ninh,Huyện Phù Ninh Tỉnh Phú Thọ
+Yên Lập,Huyện Yên Lập Tỉnh Phú Thọ
+Cẩm Khê,Huyện Cẩm Khê Tỉnh Phú Thọ
+Tam Nông,Huyện Tam Nông Tỉnh Phú Thọ
+Lâm Thao,Huyện Lâm Thao Tỉnh Phú Thọ
+Thanh Sơn,Huyện Thanh Sơn Tỉnh Phú Thọ
+Thanh Thuỷ,Huyện Thanh Thuỷ Tỉnh Phú Thọ
+Tân Sơn,Huyện Tân Sơn Tỉnh Phú Thọ
+Đồng Hới,Thành Phố Đồng Hới Tỉnh Quảng Bình
+Minh Hóa,Huyện Minh Hóa Tỉnh Quảng Bình
+Tuyên Hóa,Huyện Tuyên Hóa Tỉnh Quảng Bình
+Quảng Trạch,Huyện Quảng Trạch Tỉnh Quảng Bình
+Bố Trạch,Huyện Bố Trạch Tỉnh Quảng Bình
+Quảng Ninh,Huyện Quảng Ninh Tỉnh Quảng Bình
+Lệ Thủy,Huyện Lệ Thủy Tỉnh Quảng Bình
+Ba Đồn,Thị xã Ba Đồn Tỉnh Quảng Bình
+1,Quận 1 Thành phố Hồ Chí Minh
+12,Quận 12 Thành phố Hồ Chí Minh
+Thủ Đức,Quận Thủ Đức Thành phố Hồ Chí Minh
+9,Quận 9 Thành phố Hồ Chí Minh
+Gò Vấp,Quận Gò Vấp Thành phố Hồ Chí Minh
+Bình Thạnh,Quận Bình Thạnh Thành phố Hồ Chí Minh
+Tân Bình,Quận Tân Bình Thành phố Hồ Chí Minh
+Tân Phú,Quận Tân Phú Thành phố Hồ Chí Minh
+Phú Nhuận,Quận Phú Nhuận Thành phố Hồ Chí Minh
+2,Quận 2 Thành phố Hồ Chí Minh
+3,Quận 3 Thành phố Hồ Chí Minh
+10,Quận 10 Thành phố Hồ Chí Minh
+11,Quận 11 Thành phố Hồ Chí Minh
+4,Quận 4 Thành phố Hồ Chí Minh
+5,Quận 5 Thành phố Hồ Chí Minh
+6,Quận 6 Thành phố Hồ Chí Minh
+8,Quận 8 Thành phố Hồ Chí Minh
+Bình Tân,Quận Bình Tân Thành phố Hồ Chí Minh
+7,Quận 7 Thành phố Hồ Chí Minh
+Củ Chi,Huyện Củ Chi Thành phố Hồ Chí Minh
+Hóc Môn,Huyện Hóc Môn Thành phố Hồ Chí Minh
+Bình Chánh,Huyện Bình Chánh Thành phố Hồ Chí Minh
+Nhà Bè,Huyện Nhà Bè Thành phố Hồ Chí Minh
+Cần Giờ,Huyện Cần Giờ Thành phố Hồ Chí Minh
+Phủ Lý,Thành phố Phủ Lý Tỉnh Hà Nam
+Duy Tiên,Huyện Duy Tiên Tỉnh Hà Nam
+Kim Bảng,Huyện Kim Bảng Tỉnh Hà Nam
+Thanh Liêm,Huyện Thanh Liêm Tỉnh Hà Nam
+Bình Lục,Huyện Bình Lục Tỉnh Hà Nam
+Lý Nhân,Huyện Lý Nhân Tỉnh Hà Nam
+Bắc Ninh,Thành phố Bắc Ninh Tỉnh Bắc Ninh
+Yên Phong,Huyện Yên Phong Tỉnh Bắc Ninh
+Quế Võ,Huyện Quế Võ Tỉnh Bắc Ninh
+Tiên Du,Huyện Tiên Du Tỉnh Bắc Ninh
+Từ Sơn,Thị xã Từ Sơn Tỉnh Bắc Ninh
+Thuận Thành,Huyện Thuận Thành Tỉnh Bắc Ninh
+Gia Bình,Huyện Gia Bình Tỉnh Bắc Ninh
+Lương Tài,Huyện Lương Tài Tỉnh Bắc Ninh
+Bắc Giang,Thành phố Bắc Giang Tỉnh Bắc Giang
+Yên Thế,Huyện Yên Thế Tỉnh Bắc Giang
+Tân Yên,Huyện Tân Yên Tỉnh Bắc Giang
+Lạng Giang,Huyện Lạng Giang Tỉnh Bắc Giang
+Lục Nam,Huyện Lục Nam Tỉnh Bắc Giang
+Lục Ngạn,Huyện Lục Ngạn Tỉnh Bắc Giang
+Sơn Động,Huyện Sơn Động Tỉnh Bắc Giang
+Yên Dũng,Huyện Yên Dũng Tỉnh Bắc Giang
+Việt Yên,Huyện Việt Yên Tỉnh Bắc Giang
+Hiệp Hòa,Huyện Hiệp Hòa Tỉnh Bắc Giang
+Bắc Kạn,Thành Phố Bắc Kạn Tỉnh Bắc Kạn
+Pác Nặm,Huyện Pác Nặm Tỉnh Bắc Kạn
+Ba Bể,Huyện Ba Bể Tỉnh Bắc Kạn
+Ngân Sơn,Huyện Ngân Sơn Tỉnh Bắc Kạn
+Bạch Thông,Huyện Bạch Thông Tỉnh Bắc Kạn
+Chợ Đồn,Huyện Chợ Đồn Tỉnh Bắc Kạn
+Chợ Mới,Huyện Chợ Mới Tỉnh Bắc Kạn
+Na Rì,Huyện Na Rì Tỉnh Bắc Kạn
